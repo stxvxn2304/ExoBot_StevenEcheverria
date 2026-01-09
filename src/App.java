@@ -1,16 +1,15 @@
-import esDataAccess.esSexoAnteDAO;
-import esDataAccess.esSexoDAO;
-import esDataAccess.esTipoPersonaDAO;
-import esDataAccess.esRazaDAO;
-
 import javax.swing.JFrame;
 
-import esBusinessLogic.esEstadoCivilBL;
-import esBusinessLogic.esRazaBL;
-import esBusinessLogic.esSexoBL;
-import esBusinessLogic.esTipoPersonaBL;
-import esDataAccess.esEstadoCivilDAO;
-import esDataAccess.esDTO.*;
+import esBusinessComponent.esEntities.esEstadoCivilBL;
+import esBusinessComponent.esEntities.esRazaBL;
+import esBusinessComponent.esEntities.esSexoBL;
+import esBusinessComponent.esEntities.esTipoPersonaBL;
+import esDataAccessComponent.esEstadoCivilDAO;
+import esDataAccessComponent.esRazaDAO;
+import esDataAccessComponent.esSexoAnteDAO;
+import esDataAccessComponent.esSexoDAO;
+import esDataAccessComponent.esTipoPersonaDAO;
+import esDataAccessComponent.esDTO.*;
 import esUserInterface.esForm.esSplashScreenForm;
 
 public class App {
