@@ -1,8 +1,8 @@
 package esBusinessComponent.esEntities;
 import java.util.List;
 
-import esDataAccessComponent.esTipoPersonaDAO;
-import esDataAccessComponent.esDTO.esTipoPersonaDTO;
+import esDataAccessComponent.esDAOs.esTipoPersonaDAO;
+import esDataAccessComponent.esDTOs.esTipoPersonaDTO;
 
 public class esTipoPersonaBL {
     private esTipoPersonaDTO esTpDTO;

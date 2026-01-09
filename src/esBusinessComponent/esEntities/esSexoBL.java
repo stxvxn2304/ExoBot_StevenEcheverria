@@ -1,8 +1,8 @@
 package esBusinessComponent.esEntities;
 import java.util.List;
 
-import esDataAccessComponent.esSexoDAO;
-import esDataAccessComponent.esDTO.esSexoDTO;
+import esDataAccessComponent.esDAOs.esSexoDAO;
+import esDataAccessComponent.esDTOs.esSexoDTO;
 
 public class esSexoBL {
     private esSexoDTO esSexo;

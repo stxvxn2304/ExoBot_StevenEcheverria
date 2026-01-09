@@ -8,12 +8,12 @@ import esBusinessComponent.esEntities.esRazaBL;
 import esBusinessComponent.esEntities.esSexoBL;
 import esBusinessComponent.esEntities.esSistemaRuso;
 import esBusinessComponent.esEntities.esTipoPersonaBL;
-import esDataAccessComponent.esEstadoCivilDAO;
-import esDataAccessComponent.esRazaDAO;
-import esDataAccessComponent.esSexoAnteDAO;
-import esDataAccessComponent.esSexoDAO;
-import esDataAccessComponent.esTipoPersonaDAO;
-import esDataAccessComponent.esDTO.*;
+import esDataAccessComponent.esDAOs.esEstadoCivilDAO;
+import esDataAccessComponent.esDAOs.esRazaDAO;
+import esDataAccessComponent.esDAOs.esSexoAnteDAO;
+import esDataAccessComponent.esDAOs.esSexoDAO;
+import esDataAccessComponent.esDAOs.esTipoPersonaDAO;
+import esDataAccessComponent.esDTOs.*;
 import esUserInterface.esForm.esSplashScreenForm;
 
 public class App {
@@ -99,7 +99,7 @@ public class App {
 
         esSistemaRuso esSistemaRuso = new esSistemaRuso();
         try {
-            esSistemaRuso.esReadCoord("esDataFile\\EcheverriaSteven.csv");
+            esSistemaRuso.esReadCoord("esStorage\\esDataFile\\EcheverriaSteven.csv");
         } catch (Exception e) {
             e.printStackTrace();
         }

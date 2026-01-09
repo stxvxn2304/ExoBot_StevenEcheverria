@@ -2,8 +2,8 @@ package esBusinessComponent.esEntities;
 
 import java.util.List;
 
-import esDataAccessComponent.esRazaDAO;
-import esDataAccessComponent.esDTO.esRazaDTO;
+import esDataAccessComponent.esDAOs.esRazaDAO;
+import esDataAccessComponent.esDTOs.esRazaDTO;
 
 public class esRazaBL {
     private esRazaDTO esRDTO;

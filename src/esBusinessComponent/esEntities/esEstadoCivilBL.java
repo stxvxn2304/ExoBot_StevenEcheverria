@@ -2,8 +2,8 @@ package esBusinessComponent.esEntities;
 
 import java.util.List;
 
-import esDataAccessComponent.esEstadoCivilDAO;
-import esDataAccessComponent.esDTO.esEstadoCivilDTO;
+import esDataAccessComponent.esDAOs.esEstadoCivilDAO;
+import esDataAccessComponent.esDTOs.esEstadoCivilDTO;
 
 public class esEstadoCivilBL {
     private esEstadoCivilDTO esEcDTO;

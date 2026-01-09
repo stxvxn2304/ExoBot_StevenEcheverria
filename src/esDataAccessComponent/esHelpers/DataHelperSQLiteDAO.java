@@ -4,6 +4,9 @@ package esDataAccessComponent.esHelpers;
 
 import java.sql.*;
 import java.util.List;
+
+import esDataAccessComponent.esInterfaces.IDAO;
+
 import java.util.ArrayList;
 import java.lang.reflect.Field;
 import java.time.LocalDateTime;
