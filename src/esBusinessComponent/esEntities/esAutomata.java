@@ -5,8 +5,8 @@ public class esAutomata {
     
     static final Integer er = -10;
     static final Integer ok = 100;
-    static final String alfabeto = "a,b,c,d,t, ";
-    static final Integer[][] mt = { //a 	b	    c	    d	    t       esp
+    static final String esAlfabeto = "a,b,c,d,t, ";
+    static final Integer[][] esMt = { //a 	b	    c	    d	    t       esp
                                     {1,	    er,	    er,		er,		er,     er}, //q0
                                     {er,    2,		er,		er,	    er,     ok}, //q1
                                     {er,	2,		3,		er,		er,     ok}, //q2
@@ -14,24 +14,24 @@ public class esAutomata {
                                     {er,	er,		er,		er,		5,      er}, //q4
                                     {er,	er,		er,		er,     5,      ok}  //q5
                                 };
-   
+
     @SuppressWarnings ("resource")
-    private int esGetIndexAlfabeto(String caracter){
-        Scanner esScAlfa = new Scanner    (alfabeto). useDelimiter (",");
-        for (int i = 0; esScAlfa.hasNext (); i    ++)
-            if( caracter.equals(esScAlfa.next()))
+    private int esGetIndexAlfabeto(String esCaracter){
+        Scanner esScAlfa = new Scanner    (esAlfabeto). useDelimiter (",");
+        for (int i = 0; esScAlfa.hasNext(); i++)
+            if(esCaracter.equals(esScAlfa.next()))
                 return i;
         return er;
     }
 
-    public boolean checkTipoArsenal (String arsenal) {
+    public boolean esCheckTipoArsenal (String esArsenal) {
         int q = 0;
-        //System. out.println("Evaluando: " + arsenal);
-        for (int i = 0; i < arsenal. length(); i++) {
-            int indexAlfa = esGetIndexAlfabeto(arsenal.charAt(i) + "");
-            if (indexAlfa == er || mt[q] [indexAlfa].equals(er))
+        //System. out.println("Evaluando: " + esArsenal);
+        for (int i = 0; i < esArsenal.length(); i++) {
+            int esIndexAlfa = esGetIndexAlfabeto(esArsenal.charAt(i) + "");
+            if (esIndexAlfa == er || esMt[q][esIndexAlfa].equals(er))
                 return false;
-            q = mt[q][indexAlfa];
+            q = esMt[q][esIndexAlfa];
         }    
         return (q == ok);
     }

@@ -1,8 +1,12 @@
+import java.util.Scanner;
+
 import javax.swing.JFrame;
 
+import esBusinessComponent.esEntities.esAutomata;
 import esBusinessComponent.esEntities.esEstadoCivilBL;
 import esBusinessComponent.esEntities.esRazaBL;
 import esBusinessComponent.esEntities.esSexoBL;
+import esBusinessComponent.esEntities.esSistemaRuso;
 import esBusinessComponent.esEntities.esTipoPersonaBL;
 import esDataAccessComponent.esEstadoCivilDAO;
 import esDataAccessComponent.esRazaDAO;
@@ -86,6 +90,19 @@ public class App {
         // javax.swing.SwingUtilities.invokeLater(() -> {
         //     esSplashScreenForm.esShow();
         // });
+
+        // esAutomata esAutomata = new esAutomata();
+        // Scanner esTipoArsenal = new Scanner("a,ab,abbb,abcdt,abcdtttt,abc,abcd,adfs").useDelimiter(",");
+        // while (esTipoArsenal.hasNext())
+        //     System.out.println((esAutomata.esCheckTipoArsenal(esTipoArsenal.next()+" ") ? " boom " : " no boom "));
+        // esTipoArsenal.close();
+
+        esSistemaRuso esSistemaRuso = new esSistemaRuso();
+        try {
+            esSistemaRuso.esReadCoord("esDataFile\\EcheverriaSteven.csv");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         
     }
 }

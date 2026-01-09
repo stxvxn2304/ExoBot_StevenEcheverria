@@ -34,7 +34,7 @@ public class esCoordenadaUK {
         return  getClass().getName()
         + " \n Geoposicion  : " + getEsGeoposicion  ()
         + " \n TipoArsenal  : " + getEsTipoArsenal  ()
-        + "\n Accion        : " + getEsAccion       ();
+        + " \n Accion       : " + getEsAccion       ();
     }
 
 }
