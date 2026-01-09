@@ -4,7 +4,7 @@ package esDataAccessComponent.esInterfaces;
 
 import java.util.List;
 
-public interface IDAO<T> {  // obligatorio implementar los metodos CRUD en los DAO
+public interface IDataHelperSQLiteDAO<T> {  // obligatorio implementar los metodos CRUD en los DAO
     public boolean create(T entity)    throws Exception;
     public T       readBy(Integer id)  throws Exception;
     public List<T> readAll()           throws Exception;

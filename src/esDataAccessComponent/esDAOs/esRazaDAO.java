@@ -12,10 +12,10 @@ import java.util.List;
 
 import esDataAccessComponent.esDTOs.esRazaDTO;
 import esDataAccessComponent.esHelpers.DataHelperSQLite;
-import esDataAccessComponent.esInterfaces.IDAO;
+import esDataAccessComponent.esInterfaces.IDataHelperSQLiteDAO;
 import esInfrastructureComponent.esException;
 
-public class esRazaDAO extends DataHelperSQLite implements IDAO<esRazaDTO> {
+public class esRazaDAO extends DataHelperSQLite implements IDataHelperSQLiteDAO<esRazaDTO> {
     @Override
     public boolean create(esRazaDTO entity) throws Exception {
         String query = "INSERT INTO esCatalogo (esIdCatalogoTipo, esNombre, esDescripcion) VALUES (?, ?, ?)";

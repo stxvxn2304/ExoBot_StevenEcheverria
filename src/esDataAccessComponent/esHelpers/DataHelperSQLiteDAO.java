@@ -5,15 +5,15 @@ package esDataAccessComponent.esHelpers;
 import java.sql.*;
 import java.util.List;
 
-import esDataAccessComponent.esInterfaces.IDAO;
+import esDataAccessComponent.esInterfaces.IDataHelperSQLiteDAO;
 
 import java.util.ArrayList;
 import java.lang.reflect.Field;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public abstract class DataHelperSQLiteDAO<T> implements IDAO<T> {
-    protected final Class<T>DTOClass;
+public abstract class DataHelperSQLiteDAO <T> implements IDataHelperSQLiteDAO<T> {
+    protected final Class<T> DTOClass;
     protected final String  tableName;
     protected final String  tablePK;
 

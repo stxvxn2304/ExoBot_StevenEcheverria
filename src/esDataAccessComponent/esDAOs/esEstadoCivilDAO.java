@@ -12,10 +12,10 @@ import java.util.List;
 
 import esDataAccessComponent.esDTOs.esEstadoCivilDTO;
 import esDataAccessComponent.esHelpers.DataHelperSQLite;
-import esDataAccessComponent.esInterfaces.IDAO;
+import esDataAccessComponent.esInterfaces.IDataHelperSQLiteDAO;
 import esInfrastructureComponent.esException;
 
-public class esEstadoCivilDAO extends DataHelperSQLite implements IDAO<esEstadoCivilDTO> {
+public class esEstadoCivilDAO extends DataHelperSQLite implements IDataHelperSQLiteDAO<esEstadoCivilDTO> {
 
     @Override
     public boolean create(esEstadoCivilDTO entity) throws Exception {
