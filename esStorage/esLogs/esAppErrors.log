@@ -1,0 +1,10 @@
+╭─💀─ SHOW ❱❱ Error al dividir por cero 
+╰──── LOG  ❱❱ 2026-01-14 09:25:01 | undefined.main(...) | / by zero
+╭─💀─ SHOW ❱❱ Error al dividir por cero 
+╰──── LOG  >> 2026-01-14 09:26:50 | undefined.main(...) | / by zero
+╭─💀─ SHOW >> Error al dividir por cero 
+╰──── LOG  >> 2026-01-14 09:27:13 | undefined.main(...) | / by zero
+╭─💀─ SHOW >> Error al dividir por cero 
+╰──── LOG  >> 2026-01-14 09:29:02 | undefined.main(...) | / by zero
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-14 10:20:48 | esAlimentoTipoDAO.readAll | [SQLITE_ERROR] SQL error or missing database (no such column: Estado)

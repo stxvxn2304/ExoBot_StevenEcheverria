@@ -1,5 +1,5 @@
-# Requisitos:
-## REQ04
+#Requisitos:
+##REQ04
 La KGD requiere crear un TIPO_HORMIGA que derive de “Hormiga”. Su TIPO_HORMIGA nace como HLarva que comen néctar para vivir pero si comen su ALIMENTO se transforman en su TIPO_HORMIGA. Su TIPO_HORMIGA vive si come su ALIMENTO.
 
 TIPO_HORMIGA 		ALIMENTO (VIVE)		    NroCedula

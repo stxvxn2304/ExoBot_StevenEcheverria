@@ -1,43 +1,39 @@
 package esDataAccessComponent.esDTOs;
 
 public class esSexoDTO {
-    private Integer esIdCatalogo     ;
-    private Integer esIdCatalogoTipo ;
-    private String  esNombre         ;
-    private String  esDescripcion    ;
-    private String  esEstado         ;
-    private String  esFechaCreacion  ;
-    private String  esFechaModifica  ;
-    
+    private Integer esIdSexo       ;
+    private String  esNombre       ;
+    private String  esDescripcion  ;
+    private String  Estado       ;
+    private String  FechaCreacion;
+    private String  FechaModifica;
+
     public esSexoDTO() {}
-    public esSexoDTO(Integer esIdCatalogo, Integer esIdCatalogoTipo, String esNombre, String esDescripcion,
-            String esEstado, String esFechaCreacion, String esFechaModifica) {
-        this.esIdCatalogo = esIdCatalogo;
-        this.esIdCatalogoTipo = esIdCatalogoTipo;
+    public esSexoDTO(String esNombre, String esDescripcion) {
+        this.esIdSexo = 0;
         this.esNombre = esNombre;
         this.esDescripcion = esDescripcion;
-        this.esEstado = esEstado;
-        this.esFechaCreacion = esFechaCreacion;
-        this.esFechaModifica = esFechaModifica;
-    }
-
-    public Integer getEsIdCatalogo() {
-        return esIdCatalogo;
     }
 
 
-    public void setEsIdCatalogo(Integer esIdCatalogo) {
-        this.esIdCatalogo = esIdCatalogo;
+    public esSexoDTO(Integer esIdSexo, String esNombre, String esDescripcion, String estado, String fechaCreacion,
+            String fechaModifica) {
+        this.esIdSexo = esIdSexo;
+        this.esNombre = esNombre;
+        this.esDescripcion = esDescripcion;
+        Estado = estado;
+        FechaCreacion = fechaCreacion;
+        FechaModifica = fechaModifica;
     }
 
 
-    public Integer getEsIdCatalogoTipo() {
-        return esIdCatalogoTipo;
+    public Integer getEsIdSexo() {
+        return esIdSexo;
     }
 
 
-    public void setEsIdCatalogoTipo(Integer esIdCatalogoTipo) {
-        this.esIdCatalogoTipo = esIdCatalogoTipo;
+    public void setEsIdSexo(Integer esIdSexo) {
+        this.esIdSexo = esIdSexo;
     }
 
 
@@ -61,44 +57,44 @@ public class esSexoDTO {
     }
 
 
-    public String getEsEstado() {
-        return esEstado;
+    public String getEstado() {
+        return Estado;
     }
 
 
-    public void setEsEstado(String esEstado) {
-        this.esEstado = esEstado;
+    public void setEstado(String estado) {
+        Estado = estado;
     }
 
 
-    public String getEsFechaCreacion() {
-        return esFechaCreacion;
+    public String getFechaCreacion() {
+        return FechaCreacion;
     }
 
 
-    public void setEsFechaCreacion(String esFechaCreacion) {
-        this.esFechaCreacion = esFechaCreacion;
+    public void setFechaCreacion(String fechaCreacion) {
+        FechaCreacion = fechaCreacion;
     }
 
 
-    public String getEsFechaModifica() {
-        return esFechaModifica;
+    public String getFechaModifica() {
+        return FechaModifica;
     }
 
 
-    public void setEsFechaModifica(String esFechaModifica) {
-        this.esFechaModifica = esFechaModifica;
+    public void setFechaModifica(String fechaModifica) {
+        FechaModifica = fechaModifica;
     }
+    
 
     @Override
-    public String toString() {
+    public String toString(){
         return getClass().getName()
-                + "\n IdCatalogo:     " + getEsIdCatalogo()
-                + "\n IdCatalogoTipo: " + getEsIdCatalogoTipo()
-                + "\n Nombre:         " + getEsNombre()
-                + "\n Descripcion:    " + getEsDescripcion()
-                + "\n Estado:         " + getEsEstado()
-                + "\n FechaCreacion:  " + getEsFechaCreacion()
-                + "\n FechaModifica:  " + getEsFechaModifica();
+        + "\n IdSexo        : "+ getEsIdSexo      ()
+        + "\n Nombre        : "+ getEsNombre      ()
+        + "\n Descripcion   : "+ getEsDescripcion ()
+        + "\n Estado        : "+ getEstado      ()
+        + "\n FechaCreacion : "+ getFechaCreacion ()
+        + "\n FechaModifica : "+ getFechaModifica ();
     }
 }

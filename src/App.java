@@ -1,95 +1,83 @@
-import java.util.Scanner;
-
-import javax.swing.JFrame;
-
-import esBusinessComponent.esEntities.esAutomata;
-import esBusinessComponent.esEntities.esEstadoCivilBL;
-import esBusinessComponent.esEntities.esRazaBL;
-import esBusinessComponent.esEntities.esSexoBL;
-import esBusinessComponent.esEntities.esSistemaRuso;
-import esBusinessComponent.esEntities.esTipoPersonaBL;
-import esDataAccessComponent.esDAOs.esEstadoCivilDAO;
-import esDataAccessComponent.esDAOs.esRazaDAO;
-import esDataAccessComponent.esDAOs.esSexoAnteDAO;
-import esDataAccessComponent.esDAOs.esSexoDAO;
-import esDataAccessComponent.esDAOs.esTipoPersonaDAO;
-import esDataAccessComponent.esDTOs.*;
-import esUserInterface.esForm.esSplashScreenForm;
+import esBusinessComponent.esFactoryBL;
+import esBusinessComponent.esEntities.esHLarva;
+import esDataAccessComponent.esDAOs.esAlimentoTipoDAO;
+import esDataAccessComponent.esDAOs.esAntCiberDronDAO;
+import esDataAccessComponent.esDAOs.esHormigaDAO;
+import esDataAccessComponent.esDTOs.VWesHormigaDTO;
+import esDataAccessComponent.esDTOs.esAlimentoTipoDTO;
+import esDataAccessComponent.esDTOs.esAntCiberDronDTO;
+import esDataAccessComponent.esDTOs.esHormigaDTO;
+import esInfrastructureComponent.esAppException;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
+        // testing: Bl 
+        try {
+
+            esFactoryBL<esAntCiberDronDTO> bl = new esFactoryBL<>(esAntCiberDronDAO.class);
+            for( int i = 1; i <= bl.getAll().size(); i++){
+                esAntCiberDronDTO oDTO = bl.getBy(i);
+                oDTO.setEsSerie("Serie-BL"+i);
+                bl.upd(oDTO);
+            }
+
+            for(esAntCiberDronDTO dto : bl.getAll()){
+                System.out.println(dto.toString());
+            }
+        } catch (Exception _) {
+        }
+
         // testing: DAO
         // try {
-        //     esTipoPersonaDAO esTpDao = new esTipoPersonaDAO();
-        //     for (esTipoPersonaDTO esTp : esTpDao.readAll())
-        //         System.out.println(esTp.toString() +"\n");
-        //     System.out.println("-----------------------------------");
 
-        //     esSexoDAO esSDao = new esSexoDAO();
-        //     for (esSexoDTO esS : esSDao.readAll())
-        //         System.out.println(esS.toString() +"\n");
-        //     System.out.println("-----------------------------------");
+        //         esAntCiberDronDAO dao = new esAntCiberDronDAO();
+        //         for( int i = 1; i <= dao.readAll().size(); i++){
+        //             esAntCiberDronDTO oDTO = dao.readBy(i);
+        //             oDTO.setEsSerie("Serie-00"+i);
+        //             dao.update(oDTO);
+        //         }
 
-        //     esEstadoCivilDAO esEcDao = new esEstadoCivilDAO();
-        //     for (esEstadoCivilDTO esEc : esEcDao.readAll())
-        //         System.out.println(esEc.toString()+"\n");
-        //     System.out.println("-----------------------------------");
+        //         for(esAntCiberDronDTO dto : dao.readAll()){
+        //             System.out.println(dto.toString());
+        //         }
 
-        //     esRazaDAO esRDao = new esRazaDAO();
-        //     for (esRazaDTO esR : esRDao.readAll())
-        //         System.out.println(esR.toString()+"\n");
-        //     System.out.println("-----------------------------------");
-
-        // } catch (Exception e) {
-        //     System.out.println(e.toString());
+        // } catch (Exception _) {
         // }
-        // int a[] = { 10, 0 }, b = 10;
+
         // try {
-        //     int resultadoA = a[1] / b;
-        //     int resultadoB = b / a[0];
-        //     throw new Exception("Te quiero fregar la vida");
-        // } 
-        // catch (ArithmeticException e) {
-        //     System.out.println("El denominador no debe ser cero"); //+ e.getMessage());
-        // } 
-        // catch(ArrayIndexOutOfBoundsException e){
-        //     System.out.println("Esta fuera de rango "); //+ e.getMessage());
-        // } 
-        // catch (Exception e) {
-        //     System.out.println("Ups... lo siento ocurrio un error: " + e.getMessage());
-        // } finally {
-            //System.out.println("finally: Ejecucion con o sin error");
-        // }
-        // testing: BL
-        // try {
-        // esTipoPersonaBL esTpBL = new esTipoPersonaBL();
-        // for (esTipoPersonaDTO esTp : esTpBL.esGetAll())
-        // System.out.println(esTp.toString() +"\n");
-        // System.out.println("-----------------------------------");
-
-        // esSexoBL esSBL = new esSexoBL();
-        // // esSBL.esAdd(new esSexoDTO(0, 0, "nuevo sexo", "prueba", null, null, null));
-        // for (esSexoDTO esS : esSBL.esGetAll())
-        // System.out.println(esS.toString() +"\n");
-        // System.out.println("-----------------------------------");
-
-        // esEstadoCivilBL esEcBL = new esEstadoCivilBL();
-        // for (esEstadoCivilDTO esEc : esEcBL.esGetAll())
-        // System.out.println(esEc.toString()+"\n");
-        // System.out.println("-----------------------------------");
-
-        // esRazaBL esRBL = new esRazaBL();
-        // for (esRazaDTO esR : esRBL.esGetAll())
-        // System.out.println(esR.toString()+"\n");
-        // // System.out.println("-----------------------------------");
-
+        //     esHLarva l = new esHLarva();
+        //     System.out.println(l.getLarva(1).getEsNombre());
+        //     for (esHormigaDTO larva : l.getLarvas()) {
+        //         System.out.println(larva.toString());
+        //     }
         // } catch (Exception e) {
-        //     System.out.println(e.toString());
+        // }
+        // try {
+        //     esHormigaDAO esHDao = new esHormigaDAO();
+        //     for(VWesHormigaDTO h : esHDao.readAllVWHormiga()){
+        //         System.out.println(h.toString());
+        //     }
+        // } catch (Exception _) {
         // }
 
-        // javax.swing.SwingUtilities.invokeLater(() -> {
-        //     esSplashScreenForm.esShow();
-        // });
+        // try {
+
+        //     esAlimentoTipoDAO esDao = new esAlimentoTipoDAO();
+        //     esAlimentoTipoDTO esODTO = esDao.readBy(1);
+        //     esODTO.setEsNombre("CARnivoro");
+        //     esODTO.setEsDescripcion("Salado");
+        //     esDao.update(esODTO);
+
+        //     for (esAlimentoTipoDTO esDto : esDao.readAll()) {
+        //         System.out.println(esDto.toString());
+
+        //     }
+        // } catch (esAppException _) {}
+
+        // esSexoDAO sexoDAO = new esSexoDAO();
+        // for (esSexoDTO sexoDTO : sexoDAO.readAll()) {
+        //     System.out.println(sexoDTO.toString());
+        // }
 
         // esAutomata esAutomata = new esAutomata();
         // Scanner esTipoArsenal = new Scanner("a,ab,abbb,abcdt,abcdtttt,abc,abcd,adfs").useDelimiter(",");
@@ -97,12 +85,25 @@ public class App {
         //     System.out.println((esAutomata.esCheckTipoArsenal(esTipoArsenal.next()+" ") ? " boom " : " no boom "));
         // esTipoArsenal.close();
 
-        esSistemaRuso esSistemaRuso = new esSistemaRuso();
-        try {
-            esSistemaRuso.esReadCoord("esStorage\\esDataFile\\EcheverriaSteven.csv");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        // esSistemaRuso esSistemaRuso = new esSistemaRuso();
+        // try {
+        //     esSistemaRuso.esReadCoord("esStorage\\esDataFile\\EcheverriaSteven.csv");
+        // } catch (Exception e) {
+        //     e.printStackTrace();
+        // }
+
+        // esAppException exception = new esAppException(new Exception("error en clases"), null, "main");
         
+        // int a = 10;
+        // int b = 0;
+        // try {
+        //     a = a / b;
+        // } catch (Exception e) {
+        //     esAppException er = new esAppException("Error al dividir por cero", e, null, "main(...)");
+        //     esAppMSG.showError(er.getMessage());
+
+        // }
+        // System.out.println("Final Feliz...");
+
     }
 }
