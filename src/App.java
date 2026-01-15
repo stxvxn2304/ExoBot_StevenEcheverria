@@ -1,31 +1,155 @@
-import esBusinessComponent.esFactoryBL;
-import esBusinessComponent.esEntities.esHLarva;
-import esDataAccessComponent.esDAOs.esAlimentoTipoDAO;
-import esDataAccessComponent.esDAOs.esAntCiberDronDAO;
-import esDataAccessComponent.esDAOs.esHormigaDAO;
-import esDataAccessComponent.esDTOs.VWesHormigaDTO;
-import esDataAccessComponent.esDTOs.esAlimentoTipoDTO;
-import esDataAccessComponent.esDTOs.esAntCiberDronDTO;
-import esDataAccessComponent.esDTOs.esHormigaDTO;
-import esInfrastructureComponent.esAppException;
+// import esBusinessComponent.esFactoryBL;
+// import esBusinessComponent.esEntities.esHLarva;
+// import esBusinessComponent.esEntities.esHormiga;
+// import esDataAccessComponent.esDAOs.esAlimentoTipoDAO;
+// import esDataAccessComponent.esDAOs.esAntCiberDronDAO;
+// import esDataAccessComponent.esDAOs.esHormigaDAO;
+// import esDataAccessComponent.esDTOs.VWesHormigaDTO;
+// import esDataAccessComponent.esDTOs.esAlimentoTipoDTO;
+// import esDataAccessComponent.esDTOs.esAntCiberDronDTO;
+// import esDataAccessComponent.esDTOs.esHormigaDTO;
+// import esInfrastructureComponent.esAppException;
+
+import java.util.List;
+import java.util.Scanner;
+
+import ANTDRON2K25.esApp.esConsoleApp.esSistemaRuso;
+import ANTDRON2K25.esApp.esInfrastructureComponent.esAppException;
+import ANTDRON2K25.esApp.esInfrastructureComponent.esTools.esCMDColor;
+import ANTDRON2K25.esApp.esInfrastructureComponent.esTools.esCMDProgress;
+import ANTDRON2K25.esBusinessComponent.esFactoryBL;
+import ANTDRON2K25.esBusinessComponent.esEntities.esAlimento;
+import ANTDRON2K25.esBusinessComponent.esEntities.esEntomologo;
+import ANTDRON2K25.esBusinessComponent.esEntities.esEntomologoGenetista;
+import ANTDRON2K25.esBusinessComponent.esEntities.esEntomologoNoGenetista;
+import ANTDRON2K25.esBusinessComponent.esEntities.esHLarva;
+import ANTDRON2K25.esBusinessComponent.esEntities.esHObrera;
+import ANTDRON2K25.esBusinessComponent.esEntities.esHormiga;
+import ANTDRON2K25.esBusinessComponent.esEntities.esNectarivoro;
+import ANTDRON2K25.esDataAccessComponent.esDAOs.esAlimentoDAO;
+import ANTDRON2K25.esDataAccessComponent.esDAOs.esHormigaDAO;
+import ANTDRON2K25.esDataAccessComponent.esDTOs.esAlimentoDTO;
+import ANTDRON2K25.esDataAccessComponent.esDTOs.esHormigaDTO;
 
 public class App {
     public static void main(String[] args) {
-        // testing: Bl 
-        try {
+        Scanner sc = new Scanner(System.in);
+        esSistemaRuso sistemaRuso = new esSistemaRuso();
+        esEntomologoNoGenetista entomologo = new esEntomologoNoGenetista();
+        esEntomologoGenetista entomologoGenetista = new esEntomologoGenetista();
+        esFactoryBL<esHormigaDTO> blH = new esFactoryBL<>(esHormigaDAO.class);
+        esFactoryBL<esAlimentoDTO> blA = new esFactoryBL<>(esAlimentoDAO.class);
+        
+        sistemaRuso.esPresentarCedulaNombre(sc);
+        System.out.println(esCMDColor.RED+"readAll"+esCMDColor.RESET);
+        List<esHormiga> hormigas = entomologo.esEtlAntNest();
+        List<esAlimento> alimentos = entomologo.esEtlAntFood();
 
-            esFactoryBL<esAntCiberDronDTO> bl = new esFactoryBL<>(esAntCiberDronDAO.class);
-            for( int i = 1; i <= bl.getAll().size(); i++){
-                esAntCiberDronDTO oDTO = bl.getBy(i);
-                oDTO.setEsSerie("Serie-BL"+i);
-                bl.upd(oDTO);
+        //Creacion de los datos
+        for( int i = 1; i <= hormigas.size(); i++){
+            esHormigaDTO oDTO = new esHormigaDTO();
+            oDTO.setEsIdHormigaTipo(1); //LARVA por defecto
+            oDTO.setEsIdEstado(1); //VIVA por defecto
+            oDTO.setEsIdSexo(1); //MACHO por defecto
+            try {
+                blH.add(oDTO);
+            } catch (esAppException _) {
             }
-
-            for(esAntCiberDronDTO dto : bl.getAll()){
-                System.out.println(dto.toString());
-            }
-        } catch (Exception _) {
         }
+
+        for (int i = 1; i <= alimentos.size(); i++) {
+            esAlimentoDTO oDTO = new esAlimentoDTO();
+            oDTO.setEsIdAlimentoTipo(1); //Nectarívoro por defecto
+            try {
+                blA.add(oDTO);
+            } catch (esAppException _) {
+            }
+        }
+
+        //Almacenamiento de los datos
+        for (esHormiga hormiga : hormigas) {
+            if(hormiga instanceof esHLarva){
+                try {
+                    for( int i = 1; i <= blH.getAll().size(); i++){
+                        esHormigaDTO oDTO = blH.getBy(i);
+                        oDTO.setEsIdHormigaTipo(1);
+                        blH.upd(oDTO);
+                    }
+                } catch (esAppException _) {
+                }
+            }else{
+                try {
+                    for (int i = 1; i <= blH.getAll().size(); i++) {
+                        esHormigaDTO oDTO = blH.getBy(i);
+                        oDTO.setEsIdHormigaTipo(2);
+                        blH.upd(oDTO);
+                    }
+                } catch (esAppException _) {
+                }
+            }
+        }
+
+        for (esAlimento alimento : alimentos) {
+            if (alimento instanceof esNectarivoro) {
+                try {
+                    for (int i = 1; i <= blA.getAll().size(); i++) {
+                        esAlimentoDTO oDTO = blA.getBy(i);
+                        oDTO.setEsIdAlimentoTipo(1);
+                        blA.upd(oDTO);
+                    }
+                } catch (esAppException _) {
+                }
+            } else {
+                try {
+                    for (int i = 1; i <= blA.getAll().size(); i++) {
+                        esAlimentoDTO oDTO = blA.getBy(i);
+                        oDTO.setEsIdAlimentoTipo(2);
+                        blA.upd(oDTO);
+                    }
+                } catch (esAppException _) {
+                }
+            }
+        }
+
+        for (esHormiga hormiga : hormigas) {
+            if (hormiga instanceof esHObrera) {
+                ((esHObrera)hormiga).esSuperCortadora(true);
+            }else{
+                hormiga.esCortar();
+            }
+        }
+        int i = 0;
+        for (esAlimento alimento : alimentos) {
+            i++;
+            System.out.println("Alimento "+i);
+            alimento = entomologo.esPreparar(alimento);
+            alimento = entomologoGenetista.esPreparar(alimento);
+            System.out.print("\n");
+        }
+
+        sc.close();
+
+        // testing: Bl 
+        // try {
+            // esHLarva esLarva = new esHLarva();
+            // System.out.println(esLarva.getLarva(1).toString());
+
+            // esHormiga h = esLarva.comer("hierba");
+            // System.out.println(h.toString());
+
+            //generic BL
+            // esFactoryBL<esAntCiberDronDTO> bl = new esFactoryBL<>(esAntCiberDronDAO.class);
+            // for( int i = 1; i <= bl.getAll().size(); i++){
+            //     esAntCiberDronDTO oDTO = bl.getBy(i);
+            //     oDTO.setEsSerie("Serie-BL"+i);
+            //     bl.upd(oDTO);
+            // }
+
+            // for(esAntCiberDronDTO dto : bl.getAll()){
+            //     System.out.println(dto.toString());
+            // }
+        // } catch (Exception _) {
+        // }
 
         // testing: DAO
         // try {

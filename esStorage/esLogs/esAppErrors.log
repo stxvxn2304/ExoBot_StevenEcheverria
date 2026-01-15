@@ -8,3 +8,503 @@
 ╰──── LOG  >> 2026-01-14 09:29:02 | undefined.main(...) | / by zero
 ╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
 ╰──── LOG  >> 2026-01-14 10:20:48 | esAlimentoTipoDAO.readAll | [SQLITE_ERROR] SQL error or missing database (no such column: Estado)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:16:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esIdHormigaTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:24:09 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esHormigaDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esHormiga.esNombre)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:36:41 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:46:05 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
+╭─💀─ SHOW >> Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  >> 2026-01-15 01:51:45 | esAlimentoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: esAlimento.esIdAlimentoTipo)
